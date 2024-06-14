@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi there 👋, I'm Jesus Ruesga
+
+I'm a Computer Engineering student and this is my personal profile where I share my projects and learnings.
 
 <!--
 **ruesga-99/ruesga-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
