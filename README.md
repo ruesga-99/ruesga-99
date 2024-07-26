@@ -1,6 +1,6 @@
-# Hi there 👋, I'm Jesus Ruesga
+# Hi there 👋, I'm Jesus Ruesga 👨🏾‍💻
 
-I'm a Computer Engineering student at University of Guadalajara and this is my personal profile where I share my projects and learnings.
+I'm a Computer Engineering student at University of Guadalajara and this is my personal profile where I share my projects and learnings. 
 
 🔭 I’m currently working on:
 - Numerical methods and their implementation in Python
