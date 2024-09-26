@@ -5,6 +5,7 @@ I'm a Computer Engineering student at University of Guadalajara and this is my p
 🔭 I’m currently working on:
 - Numerical methods and their implementation in Python
 - Strategies for teaching and the use of technology in education
+- Operating Systems memory and process management algorithms in Python
 
 🌱 I’m currently learning:
 - Algotithm and Data Structures implementation in C++ and Python
