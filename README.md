@@ -8,7 +8,7 @@ I'm a Computer Engineering student at University of Guadalajara and this is my p
 - Operating Systems memory and process management algorithms in Python
 
 🌱 I’m currently learning:
-- Algotithm and Data Structures implementation in C++ and Python
+- Algotithms and Data Structures implementation in C++ and Python
 - New strategies for competitive programming
 
 <!--
