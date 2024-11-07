@@ -9,7 +9,7 @@ I'm a Computer Engineering student at University of Guadalajara and this is my p
 - Web based service for delivery routes optimization
 
 🌱 I’m currently learning:
-- Algotithms and Data Structures implementation in C++ and Python
+- Algorithms and Data Structures implementation in C++ and Python
 - New strategies for competitive programming
 
 <!--
