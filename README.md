@@ -3,9 +3,9 @@
 I'm a Computer Engineering student at University of Guadalajara and this is my personal profile where I share my projects and learnings. 
 
 🔭 I’m currently working on:
-- Numerical methods and their implementation in Python
+- [Numerical methods](https://github.com/ruesga-99/numerical_methods) and their implementation in Python 
 - Strategies for teaching and the use of technology in education
-- Operating Systems memory and process management algorithms in Python
+- [Operating Systems](https://github.com/ruesga-99/operating_systems) memory and process management algorithms in Python
 - Web based service for delivery routes optimization
 
 🌱 I’m currently learning:
