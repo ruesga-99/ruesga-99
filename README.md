@@ -10,7 +10,7 @@ I'm a Computer Engineering student at University of Guadalajara and this is my p
 
 🌱 I’m currently learning:
 - Algorithms and Data Structures implementation in C++ and Python.
-- AI technologies for Python.
+- AI technologies for Python, including [Fuzzy Systems](https://github.com/ruesga-99/fuzzy_systems), Agent-Based Models and CNNs.
 - New strategies for competitive programming.
 - Data science techniques and frameworks for Python.
 
